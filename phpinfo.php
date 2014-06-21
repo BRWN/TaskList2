@@ -1,4 +1,5 @@
 <?php
-    print phpinfo();
+    echo "did this go up?"
+    echo phpinfo();
 ?>
 
